@@ -5,7 +5,7 @@ I presented a poster called "Empathy in VR of the trolley problem compared to pa
 
 📅 2016 - 2017
 
-🛠 Libraries/tools
+🛠 Built with:
 * Unity3D
 * C#
 * HTC Vive
