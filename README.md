@@ -21,7 +21,3 @@ I presented a poster called "Empathy in VR of the trolley problem compared to pa
 
 ## Videos and pictures
 * TBD
-
-
-
-
